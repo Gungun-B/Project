@@ -1,4 +1,4 @@
-# ----------Minor Project---------
+# Minor Project--------
 
 ## Interior Designing -- An AI-Powered Tool for Intelligent Interior Design Suggestions🎨 
 
