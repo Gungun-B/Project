@@ -6,7 +6,7 @@
 To assist homeowners, designers, and architects in making smart interior design choices by analyzing room images and offering intelligent suggestions using Machine Learning and Computer Vision.
 
 ## 🛠️ Core Features:
-❁ Color Extraction – Identifies the dominant colors in a room image
+❁ Color Extraction – Identifies the dominant colors in a room image\n
 ❁ Color Prediction – Uses machine learning to suggest ideal wall paint colors
 ❁ Object Detection – Recognizes furniture and room items using a YOLOv8 model
 
